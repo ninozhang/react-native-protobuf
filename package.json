@@ -1,0 +1,29 @@
+{
+  "name": "react-native-protobuf",
+  "version": "5.0.1",
+  "description": "由于 protobuf.js 无法在 React Native 中直接使用，简化了下适应 React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninozhang/react-native-protobuf.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "protobuf",
+    "protobufjs",
+    "protobuf.js"
+  ],
+  "dependencies": {
+    "bytebuffer": "~5"
+  },
+  "author": "dcodeIO",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ninozhang/react-native-protobuf/issues"
+  },
+  "homepage": "https://github.com/ninozhang/react-native-protobuf#readme"
+}
